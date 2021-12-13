@@ -1,6 +1,6 @@
 # SimPlay
 
-This is the implementation of "Similar Sports Play Retrieval with Deep Reinforcement Learning" (TKDE'22).
+This is the implementation of "Similar Sports Play Retrieval with Deep Reinforcement Learning" (TKDE'2022).
 
 ## Requirements
 
